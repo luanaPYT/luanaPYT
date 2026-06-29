@@ -45,7 +45,7 @@
 
 ---
 
-## 🌿 About Me
+##  About Me
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
@@ -61,24 +61,6 @@
 ```
 
 ---
-
-## 💜 2D Character — Meet Luana!
-
-<div align="center">
-
-```
-        　　　  ／＞　 フ
-        　　　| 　_　_| 
-        　 ／` ミ＿xノ     ← That's me waving at you! ✨
-        　/　　　　 |
-        　/　 ヽ　　 ﾉ
-        　│　　|　|　|
-        ／￣|　　 |　|　|
-        (￣ヽ＿_ヽ_)__)
-        ＼二)
-```
-
-**`> Hello! Come explore my code ☁️🌧️`**
 
 </div>
 
@@ -96,11 +78,11 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Luana's World 🌿</title>
+    <title>Luana's World </title>
   </head>
   <body>
-    <h1>Hello, I'm Luana 💜</h1>
-    <p>Welcome to my purple forest 🌧️</p>
+    <h1>Hello, I'm Luana </h1>
+    <p>Welcome to my purple forest </p>
   </body>
 </html>
 ```
@@ -111,7 +93,7 @@
 
 ---
 
-### 🎨 CSS3
+### CSS3
 
 ```css
 /* Luana's signature style ✨ */
@@ -135,10 +117,10 @@
 
 ---
 
-### ⚡ JavaScript
+### JavaScript
 
 ```javascript
-// Who is Luana? 🌿
+// Who is Luana? 
 const luana = {
   name: "Luana",
   alias: "luanaPYT",
@@ -160,15 +142,15 @@ console.log(luana.greet());
 
 ---
 
-### 🐍 Python
+### Python
 
 ```python
-# Luana's Python world 🌿🐍
+# Luana's Python world 
 class Luana:
     def __init__(self):
         self.name     = "Luana"
         self.github   = "luanaPYT"
-        self.vibe     = "rainy forest nights 🌧️"
+        self.vibe     = "rainy forest nights "
         self.color    = "#a855f7  # purple forever 💜"
 
     def say_hello(self):
