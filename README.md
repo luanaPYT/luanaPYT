@@ -1,20 +1,35 @@
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luanaPYT/luanaPYT/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luanaPYT/luanaPYT/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luanaPYT/luanaPYT/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
 
 <div align="center">
 
-# Hello there! 👋 I'm Luana
+<!-- FOOTER GRADIENT LINE -->
+<svg width="860" height="12" viewBox="0 0 860 12" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d0015;stop-opacity:1" />
+      <stop offset="30%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#a855f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d0015;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="860" height="12" rx="6" fill="url(#footer)"/>
+</svg>
 
-### Web Developer & Coder
+<br/>
 
-<img src="https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotGHoqkM4caKcjz7rUzmTaMpY897spWT13hwuXmQ6CVus" width="600" />
+*"Code like the rain — steady, persistent, and beautiful 🌧️💜"*
 
----
+**— Luana / luanaPYT**
 
-### 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<br/>
 
----
+![Made with love](https://img.shields.io/badge/Made%20with-💜%20%26%20Rain-a855f7?style=for-the-badge&labelColor=0d0015)
 
+</div>
