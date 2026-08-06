@@ -4,7 +4,7 @@
 
 ### Web Developer & Coder
 
-<img src="https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotGHoqkM4caKcjz7rUzmTaMpY897spWT13hwuXmQ6CVus" width="600" />
+
 
 ---
 
