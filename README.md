@@ -2,10 +2,7 @@
 
 # Hello there! 👋 I'm **Luana**
 
-### Web Developer & Coder · Челябинск, Россия
-
-Строю сайты и веб-приложения. Сейчас активно развиваю
-[**KobakiShop**](https://vape-shop-rosy.vercel.app) — интернет-магазин электронных сигарет и жидкостей.
+### Web Developer & Coder
 
 ---
 
@@ -31,15 +28,6 @@
 
 ---
 
-### 📌 Projects
-
-| Проект | Описание |
-| ------ | -------- |
-| [**KobakiShop**](https://github.com/luanaPYT/vape-shop) | Интернет-магазин вейп-культуры на Next.js + Turso: каталог, корзина, заказы, админ-панель, розыгрыши. [Сайт](https://vape-shop-rosy.vercel.app) |
-| [**Messenger**](https://github.com/luanaPYT/messenger) | Мессенджер |
-
----
-
-*Open to collaboration — пиши в Issues или через проекты выше!* ✨
+*Open to collaboration — пиши в Issues!* ✨
 
 </div>
