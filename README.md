@@ -21,13 +21,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=luanaPYT&show_icons=true&count_private=true&hide_border=true&theme=dark&title_color=eab308&icon_color=eab308&text_color=f5f5f7&bg_color=0d0d12" alt="GitHub stats" height="180"/>
+##
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanaPYT&layout=compact&hide_border=true&theme=dark&title_color=eab308&text_color=f5f5f7&bg_color=0d0d12" alt="Top languages" height="180"/>
 
 ---
 
-*Open to collaboration — пиши в Issues!* ✨
-
-</div>
+*
