@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=luanaPYT&fontSize=60&fontColor=fff&animation=twinkling&desc=Systems%20%26%20Developer%20Tooling%20in%20C%2B%2B&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=luanaPYT&fontSize=60&fontColor=fff&animation=twinkling&desc=Learning%20C%2B%2B%20%26%20Web%20Development&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 </div>
 
-[![Dynamic Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=780&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;C%2B%2B17+from+first+principles;Header-only+libraries+%2B+terminal+tools;Green-CI-or-it-didn't-happen;Building+the+toolbox%2C+one+commit+at+a+time)](https://github.com/luanaPYT)
+<div align="center">
+  <img src="luanaPYT.jpg" alt="luanaPYT" width="230" />
+</div>
+
+[![Dynamic Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+luanaPYT+%F0%9F%91%8B;Learning+C%2B%2B+step+by+step;Also+into+HTML%2C+CSS+and+JavaScript;Small+projects%2C+big+curiosity+%E2%9C%A8)](https://github.com/luanaPYT)
 
 ## 🌟 Identity Matrix
 
@@ -12,19 +16,20 @@
 
 ```yaml
 developer:
-  focus: "C++ systems & developer tooling"
-  philosophy: "Zero dependencies. Header-only. Test everything."
-  mission: "Understand the magic by rebuilding it from scratch"
+  focus: "Learning C++ and web development"
+  level: "beginner — curious, persistent, improving every day"
+  stack: ["C++ (learning)", "HTML", "CSS", "JavaScript"]
+  mission: "Understand how things work by building them myself"
 
 current_quests:
-  - 🔢 Reimplementing bignum arithmetic limb by limb
-  - 🧩 Writing parsers so small they fit in one header
-  - 🐍 Shipping terminal toys that make people smile
+  - 🧠 Mastering C++ fundamentals, one exercise at a time
+  - 🌐 Building my first pages with HTML & CSS
+  - 🛠️ Turning tiny ideas into small working projects
   - 🤖 Keeping every repo's CI badge green
 
 personality:
-  traits: ["Problem Solver", "Minimalist", "Perpetual Refactorer"]
-  motto: "Make it correct, make it clear, make it fast — in that order"
+  traits: ["Problem Solver", "Curious", "Persistent"]
+  motto: "Debug with coffee, deploy with confidence"
 ```
 
 ### 🎯 Tech DNA Sequence
@@ -32,10 +37,11 @@ personality:
 ```cpp
 const auto luanaPYT = [] {
     struct {
-        std::vector<std::string> languages{"C++17", "C", "Python", "Shell"};
-        std::vector<std::string> domains{"Algorithms", "Parsers", "CLI tools", "Games"};
-        std::vector<std::string> tooling{"Git", "GitHub Actions CI", "Make"};
-        std::string codingStyle   = "Small headers, big tests";
+        std::vector<std::string> learning    {"C++", "HTML", "CSS"};
+        std::vector<std::string> exploring   {"JavaScript", "Python"};
+        std::vector<std::string> domains     {"Algorithms", "Web pages", "CLI toys"};
+        std::vector<std::string> tooling     {"Git", "GitHub Actions CI", "Make"};
+        std::string codingStyle   = "Small steps, lots of experiments";
         std::string workingHours  = "Late nights, powered by curiosity ☕";
         bool lovesGreenCheckmarks = true;
     } me;
@@ -46,32 +52,20 @@ const auto luanaPYT = [] {
 ## ⚡ Tech Arsenal
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,githubactions,bash,vim,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,javascript,html,css,python,git,githubactions,linux&theme=dark" />
 </a>
-
-## 🚀 Featured Projects — hand-built, zero dependencies
-
-| Repo | What it is | Highlights | CI |
-|------|-----------|------------|-----|
-| 🔢 [**bigint**](https://github.com/luanaPYT/bigint) | Arbitrary-precision unsigned integers | header-only · add/sub/mul/divmod · decimal I/O | ![bigint CI](https://github.com/luanaPYT/bigint/actions/workflows/ci.yml/badge.svg) |
-| 🧩 [**jsonlite**](https://github.com/luanaPYT/jsonlite) | Minimal JSON parser & serializer | one header · objects/arrays/escapes · round-trip tested | ![jsonlite CI](https://github.com/luanaPYT/jsonlite/actions/workflows/ci.yml/badge.svg) |
-| 📐 [**matrix-lite**](https://github.com/luanaPYT/matrix-lite) | Dense matrix math | LU decomposition · determinant · transpose | ![matrix-lite CI](https://github.com/luanaPYT/matrix-lite/actions/workflows/ci.yml/badge.svg) |
-| 🔍 [**lcs-diff**](https://github.com/luanaPYT/lcs-diff) | Line-based diff via LCS | script-friendly exit codes · unified-style output | ![lcs-diff CI](https://github.com/luanaPYT/lcs-diff/actions/workflows/ci.yml/badge.svg) |
-| 🐍 [**snake-term**](https://github.com/luanaPYT/snake-term) | Terminal Snake game | raw-mode input · ANSI rendering · zero libraries | ![snake-term CI](https://github.com/luanaPYT/snake-term/actions/workflows/ci.yml/badge.svg) |
 
 ## 📊 Analytics Command Center
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanaPYT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="stats" />
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=luanaPYT&theme=tokyonight&hide_border=true&locale=en" height="165" alt="streak" />
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanaPYT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="langs" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luanaPYT&theme=tokyo-night&hide_border=true&area=true&custom_title=Weekly%20Coding%20Activity" height="150" width="49%" alt="activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luanaPYT&theme=tokyo-night&hide_border=true&area=true&custom_title=Weekly%20Coding%20Activity" width="100%" alt="activity" />
 
-## 🏆 Trophy Shelf
-
-<img src="https://github-profile-trophy.vercel.app/?username=luanaPYT&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12" width="100%" alt="trophies" />
+</div>
 
 ---
 
