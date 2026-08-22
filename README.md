@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=luanaPYT&fontSize=60&fontColor=fff&animation=twinkling&desc=Learning%20C%2B%2B%20%26%20Web%20Development&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=luanaPYT&fontSize=60&fontColor=fff&animation=twinkling&desc=Python%20%26%20Web%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 </div>
 
@@ -8,64 +8,53 @@
   <img src="luanaPYT.jpg" alt="luanaPYT" width="230" />
 </div>
 
-[![Dynamic Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+luanaPYT+%F0%9F%91%8B;Learning+C%2B%2B+step+by+step;Also+into+HTML%2C+CSS+and+JavaScript;Small+projects%2C+big+curiosity+%E2%9C%A8)](https://github.com/luanaPYT)
+[![Dynamic Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+luanaPYT+%F0%9F%91%8B;Python+developer+in+the+making;Also+into+HTML%2C+CSS+and+JavaScript;Small+projects%2C+steady+growth)](https://github.com/luanaPYT)
 
-## 🌟 Identity Matrix
-
-### 👨‍💻 Professional Nexus
+## 🌟 About Me
 
 ```yaml
 developer:
-  focus: "Learning C++ and web development"
-  level: "beginner — curious, persistent, improving every day"
-  stack: ["C++ (learning)", "HTML", "CSS", "JavaScript"]
-  mission: "Understand how things work by building them myself"
+  focus: "Python development and web technologies"
+  level: "early-career — learning fast, shipping constantly"
+  stack: ["Python", "HTML", "CSS", "JavaScript"]
+  mission: "Learn by building real things, not just tutorials"
 
 current_quests:
-  - 🧠 Mastering C++ fundamentals, one exercise at a time
-  - 🌐 Building my first pages with HTML & CSS
-  - 🛠️ Turning tiny ideas into small working projects
-  - 🤖 Keeping every repo's CI badge green
+  - 🐍 Going deep into Python: OOP, standard library, clean architecture
+  - 🌐 Building pages with HTML & CSS, bringing them to life with JavaScript
+  - 🛠️ Growing a portfolio of useful, finished projects
+  - 🚀 Practicing a clean git workflow with CI on every push
 
 personality:
-  traits: ["Problem Solver", "Curious", "Persistent"]
-  motto: "Debug with coffee, deploy with confidence"
+  traits: ["Curious", "Persistent", "Detail-oriented"]
+  motto: "Debug with coffee, ship with confidence"
 ```
 
-### 🎯 Tech DNA Sequence
+## 🎯 Dev DNA
 
-```cpp
-const auto luanaPYT = [] {
-    struct {
-        std::vector<std::string> learning    {"C++", "HTML", "CSS"};
-        std::vector<std::string> exploring   {"JavaScript", "Python"};
-        std::vector<std::string> domains     {"Algorithms", "Web pages", "CLI toys"};
-        std::vector<std::string> tooling     {"Git", "GitHub Actions CI", "Make"};
-        std::string codingStyle   = "Small steps, lots of experiments";
-        std::string workingHours  = "Late nights, powered by curiosity ☕";
-        bool lovesGreenCheckmarks = true;
-    } me;
-    return me;
-}();
+```python
+class LuanaPYT:
+    """Self-taught developer building things one commit at a time."""
+
+    languages = ["Python", "JavaScript", "HTML", "CSS"]
+    learning_now = ["OOP design", "asyncio", "Flask", "testing with pytest"]
+    interested_in = ["automation", "CLI tools", "web development"]
+
+    @staticmethod
+    def daily_routine() -> list[str]:
+        return ["write code", "break it", "understand why", "make it better"]
+
+    motto = "Debug with coffee, ship with confidence"
+
+
+print("Thanks for stopping by!")
 ```
 
-## ⚡ Tech Arsenal
+## ⚡ Toolbox
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,javascript,html,css,python,git,githubactions,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,githubactions,linux,vscode&theme=dark" />
 </a>
-
-## 📊 Analytics Command Center
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=luanaPYT&theme=tokyonight&hide_border=true&locale=en" height="165" alt="streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luanaPYT&theme=tokyo-night&hide_border=true&area=true&custom_title=Weekly%20Coding%20Activity" width="100%" alt="activity" />
-
-</div>
 
 ---
 
@@ -73,7 +62,7 @@ const auto luanaPYT = [] {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luanaPYT&label=Profile+Views&color=00D9FF&style=for-the-badge)
 
-*"Debug with coffee, deploy with confidence."* ☕🚀
+*"Debug with coffee, ship with confidence."* ☕🚀
 
 </div>
 
