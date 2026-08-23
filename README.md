@@ -1,10 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=200&section=header&text=luanaPYT&fontSize=60&fontColor=fff&animation=twinkling&desc=Python%20%26%20Web%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
-
-</div>
-
-<div align="center">
   <img src="luanaPYT.jpg" alt="luanaPYT" width="230" />
 </div>
 
